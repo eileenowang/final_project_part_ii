@@ -1,27 +1,27 @@
 # Final Project Part II - Development from Part I
-The goal of this page is to flesh out the structure and necessary parts needed to execute my final project for Storytelling With Data. 
+The goal of this page is to flesh out the structure and necessary parts to execute my final project for Storytelling With Data. It is also to validate and test the logic behind my data storytelling, understand areas of improvement, and iterate before going into Part III.  
 
-One of the biggest challenge coming from [Part I of my final project](https://eileenowang.github.io/final_project_eileenwang/) was that I thought there were many oppportunities to expand on and deepen the story around helping individuals find happiness, but I couldn't decide on an angle. With further research in the happiness domain, I finally decided to tell a story about how individuals could help equip elders they care about with the right resources to increase happiness, and why this is a meaningful action. To realize this story, I will be introducing [a second data source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056407/) into my final project.  
+One of the biggest challenge coming from [Part I of my final project](https://eileenowang.github.io/final_project_eileenwang/) was that I thought there were so many oppportunities to expand upon, and I couldn't decide on an angle to focus on. I knew I was interested in helping individuals find tangible ways to pursue happiness, but with the dataset I had (which was a overview of happiness ranking by country), it was hard to dig deeper and find a more personal connection. With further research in the happiness domain, I finally decided to tell a story about how individuals could help elders they care about access resources they need to increase their happiness. To realize this story, I will be introducing [a second data source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056407/) into my final project.  
 
 # Storyboard / Wireframe 
-Below, I have outlined how I will tell the story on [Shorthand](https://shorthand.com/). The key findings I want to illustrate in my storyboard are: 
+Below, I will outline how I will tell the story on [Shorthand](https://shorthand.com/). The key findings I want to illustrate in my storyboard are: 
 
 1) Most nations saw social support as the primary driver of happiness. 
 
-2) Within social support, there are 2 kinds of support- Informational Support and Emotional Support (will be defined in detail in final product) that are most impactful factors for happiness.  
+2) It is found that 25% of variability in happiness is explained by social support. But social support could mean a lot of things (and this still feels vague). 
 
-3) It is found that 25% of variability in happiness is explained by social support, and this is something we can actively shape.
+3) Digging deeper, there are 2 most impactful kinds of social support- Informational Support and Emotional Support (they will be defined in detail in final product) that contribute to happiness. Now these 2 kinds of support are something we can actively shape and access. 
 
-# My first storyboard:
-This is what I used to showed individuals for gathering feedback in my user research. 
+# My first storyboard
+This is what I used to show and gather feedback in my user research: 
 ![initialwireframe](partiiwireframe_1.png)
 
-# Revised storyboard after collecting feedback from user research:
-For information on the feedback that inspired the changes, please refer to the "Feedback from Users" section.
+# Revised storyboard after collecting feedback from user research
+For information on the feedback that inspired the changes, please refer to the "Feedback from Users" section:
 ![wireframes](partiiwireframe_2.png)
 
 Here are also some data visualizations I've created for the first half of the storyboard: 
-<div class='tableauPlaceholder' id='viz1581891805539' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ha&#47;Happinessworkbook_15818915524550&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Happinessworkbook_15818915524550&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ha&#47;Happinessworkbook_15818915524550&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1581891805539');
+<div class='tableauPlaceholder' id='viz1581891805539' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ha&#47;Happinessworkbook_15818915524550&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Happinessworkbook_15818915524550&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ha&#47;Happinessworkbook_15818915524550&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div><script type='text/javascript'> var divElement = document.getElementById('viz1581891805539');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';
   vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';
