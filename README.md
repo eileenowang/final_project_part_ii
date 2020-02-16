@@ -1,7 +1,7 @@
 # Final Project Part II - Development from Part I
 The goal of this page is to flesh out the structure and necessary parts needed to execute my final project for Storytelling With Data. 
 
-One of the biggest challenge coming from [Part I](https://eileenowang.github.io/final_project_eileenwang/) was that I thought there were many oppportunities to expand on and deepen the story around helping individuals find happiness, but I couldn't decide on an angle. With further research in the happiness domain, I finally decided to tell a story about how individuals could help equip elders they care about with the right resources to increase happiness, and why this is a meaningful action. To realize this story, I will be introducing [a second data source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056407/) into my final project.  
+One of the biggest challenge coming from [Part I of my final project](https://eileenowang.github.io/final_project_eileenwang/) was that I thought there were many oppportunities to expand on and deepen the story around helping individuals find happiness, but I couldn't decide on an angle. With further research in the happiness domain, I finally decided to tell a story about how individuals could help equip elders they care about with the right resources to increase happiness, and why this is a meaningful action. To realize this story, I will be introducing [a second data source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056407/) into my final project.  
 
 # Storyboard / Wireframe 
 Below, I have outlined how I will tell the story on [Shorthand](https://shorthand.com/). The key findings I want to illustrate in my storyboard are: 
@@ -71,5 +71,7 @@ Second data source:[The Association between Social Support and Happiness among E
 Visualizations made from: [Tableau](https://www.tableau.com/)
 
 Public link to [access this page](https://eileenowang.github.io/final_project_part_ii/)
+
+[Return to part I of my final project](https://eileenowang.github.io/final_project_eileenwang/)
 
 [Return my main Data Visualization page](https://eileenowang.github.io/data-visualization/)
