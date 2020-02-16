@@ -5,7 +5,7 @@ One of the biggest challenge coming from [Part I](https://eileenowang.github.io/
 
 # Storyboard / Wireframe 
 Below, I have outlined how I will tell the story on Shorthand. The key findings I want to illustrate are: 1) Most nations saw social support as the primary driver of happiness. 2) Within social support, 2 kinds of support- Informational Support and Emotional Support (will be defined in final product) are the most impactful. 3) 25% of variability in happiness is explained by social support, and this is something we can actively shape. 
-![wireframes](partiiwireframe.png)
+![wireframes](partiiwireframe_2.png)
 Here are also some data visualizations I've created for the first half of the storyboard: 
 
 # User research protocol 
