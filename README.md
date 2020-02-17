@@ -51,16 +51,16 @@ Introduction: Many of us, no matter who we are or where we are, have elderly fig
 
 # Feedback from users
 *Feedback from User 1, a friend that lives in NY*
-- I think the subject is really interesting, could have so many approaches. I like how you first broke it down into 6 factors.  
-- In addition to having a general map of the happiness ranking across countries, another visualization for what drives the happiness rank for each country would be really helpful. It would serve as an intermediate layer in the funnel to identify factors that contributes to happiness. 
+- "I think the subject is really interesting, could have so many approaches. I like how you first broke it down into 6 factors."  
+- "In addition to having a general map of the happiness ranking across countries, another visualization for what drives the happiness rank for each country would be really helpful. It would serve as an intermediate layer in the funnel to identify factors that contributes to happiness." 
 
 *Feedback from User 2, a CMU alumnus*
-- I think it's not immediately clear how the storyboard jumps from identifying the factors and then to this chart with "highest contributing factor". I want to see a "big picture" view of the dataset here. 
-- Before seeing the storyboard I'm actually not sure what kind of support I'm currently giving my grandparents. 
+- "It's not immediately clear how the storyboard jumps from identifying the factors and then to this chart with "highest contributing factor". I want to see a big picture view of the dataset here."
+- "Before seeing the storyboard I'm actually not sure what kind of support I'm currently giving my grandparents." 
 
 *Feedback from User 3, my classmate at CMU*
-- It might help to have some sort of visualization for the 25% data point. You said there are 2 social support types that account for 25% of variability in happiness, but I don't know what they are, and how they relate to the other social support types. 
-- I've never thought of specifying the kind of support I can give my grandma. But after viewing this, it makes sense that I can be much more intentional than just giving her "grandson love". 
+- "It might help to have some sort of visualization for the 25% data point. You said there are 2 social support types that account for 25% of variability in happiness, but I don't know what they are, and how they relate to the other social support types." 
+- "I've never thought of specifying the kind of support I can give my grandma. But after viewing this, it makes sense that I can be much more intentional than just giving her 'grandson love'." 
 
 *Changes I implemented to my storyboars to address the issues identified:*
 - Add a world map view where users can look at the driving factor of happiness for each nation. The map can be filtered by driving factor. 
