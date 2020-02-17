@@ -1,4 +1,4 @@
-# Final Project Part II - Development from Part I
+# Development from Part I
 The goal of this page is to flesh out the structure and necessary parts to execute my final project for Storytelling With Data. It is also to validate and test the logic behind my data storytelling, understand areas of improvement, and iterate before going into Part III.  
 
 One of the biggest challenge coming from [Part I of my final project](https://eileenowang.github.io/final_project_eileenwang/) was that I thought there were so many oppportunities to expand upon, and I couldn't decide on an angle to focus on. I knew I was interested in helping individuals find tangible ways to pursue happiness, but with the dataset I had (which was a overview of happiness ranking by country), it was hard to dig deeper and find a more personal connection. With further research in the happiness domain, I finally decided to tell a story about how individuals could help elders they care about access resources they need to increase their happiness. To realize this story, I will be introducing [a second data source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056407/) into my final project.  
