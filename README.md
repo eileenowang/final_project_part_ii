@@ -66,7 +66,7 @@ Introduction: Many of us, no matter who we are or where we are, have elderly fig
 - Add a world map view where users can look at the driving factor of happiness for each nation. The map can be filtered by driving factor. 
 - Add a data visualization to illustrate "25% of variability in happiness is explained by social support", where the 2 most important ones are informational support and emotional support. In my graph, I will draw both the informational and emotional support to be proportionally bigger than the other social supporting factors. 
 
-# Resources & Links:
+# Resources:
 
 First data source: [World Happiness 2019 Report](https://www.kaggle.com/unsdsn/world-happiness#2019.csv)
 
@@ -74,8 +74,12 @@ Second data source:[The Association between Social Support and Happiness among E
 
 Visualizations made from: [Tableau](https://www.tableau.com/)
 
+# Links & Where to find other parts of my final project
+
 Public link to [access this page](https://eileenowang.github.io/final_project_part_ii/)
 
-[Return to part I of my final project](https://eileenowang.github.io/final_project_eileenwang/)
+[Part I of my final project](https://eileenowang.github.io/final_project_eileenwang/)
+
+[Part III of my final project](https://eileenowang.github.io/final_project_part_iii/)
 
 [Return my main Data Visualization page](https://eileenowang.github.io/data-visualization/)
